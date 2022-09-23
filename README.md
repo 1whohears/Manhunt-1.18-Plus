@@ -1,7 +1,7 @@
-# manhunt-1.18.2
+# Manhunt-1.18-Plus
  Manhunt Datapack based on Dream's Minecraft Challenge
 
-## How to use
+## How to Use
 
 Make a new minecraft world on a server with this datapack in the datapacks folder.
 
