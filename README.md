@@ -1,5 +1,5 @@
 # Manhunt-1.18-Plus
- Manhunt Datapack based on Dream's Minecraft Challenge
+ Manhunt Datapack based on Dream's Minecraft Challenge. Tested on 1.18.2 and 1.19.
 
 ## How to Use
 
