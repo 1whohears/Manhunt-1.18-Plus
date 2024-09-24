@@ -15,10 +15,7 @@ execute if score data game matches -1 run gamemode adventure @a
 
 execute if score data game matches -1 run function mh:killmobs
 
-execute if score data game matches 1 run gamemode spectator @a[tag=!player]
-execute if score data game matches 1 if score data headstart matches 1.. run tp @a[tag=!tracked] 0 1000 0
-execute if score data game matches 1 if score data headstart matches 0 as @a[tag=!tracked] run function mh:join_game
-execute if score data game matches 1 if score data headstart matches 0.. run scoreboard players remove data headstart 1
+execute if score data game matches 1 run function mh:mh_game_tick
 
 ###TODO
 

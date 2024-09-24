@@ -7,6 +7,7 @@ say (It will kill everyone as a way to reset start positions and inventories.)
 
 scoreboard players reset @a reset
 scoreboard players set data game -1
+scoreboard players reset @a kamakazi
 
 tag @a remove player
 tag @a remove tracked
